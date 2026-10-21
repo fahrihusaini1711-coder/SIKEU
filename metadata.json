@@ -1,0 +1,6 @@
+{
+  "name": "Wangsa Manawi Group - SIPK & Manajemen Karyawan",
+  "description": "Sistem Informasi Pengelolaan Keuangan & Manajemen Karyawan Wangsa Manawi Group Cimanggu dengan kontrol hak akses, payroll, dan analitik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
